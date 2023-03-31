@@ -1,3 +1,4 @@
-Exo1 -> Bouton pour changer l'affichage d'une div  
-Exo2 -> Login / mdp form  
-Exo3 -> fetch de data.html  
+# Exercices Architecture d'Application
+__Exo1__ -> Bouton pour changer l'affichage d'une div  
+__Exo2__ -> Login / mdp form  
+__Exo3__ -> fetch de data.html  
